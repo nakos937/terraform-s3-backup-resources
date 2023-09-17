@@ -3,10 +3,10 @@ Terraform module for setting up an S3 bucket optimized for backup storage. Imple
 
 ## Features:
 
-    Versioning for object history and recovery.
-    Lifecycle policies for cost-effective storage management.
-    Server-side encryption for data security at rest.
-    IAM role-based access control for backup uploads.
+   - Versioning for object history and recovery.
+   - Lifecycle policies for cost-effective storage management.
+   - Server-side encryption for data security at rest.
+   - IAM role-based access control for backup uploads.
 
 ## Usage:
 
